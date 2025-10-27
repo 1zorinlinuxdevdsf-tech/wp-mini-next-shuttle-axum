@@ -2,7 +2,7 @@
   <img src="logo.png" alt="WattDownload Logo" width="200px">
 </p>
 
-<h1 align="center">WP | EPUB | Extra-Mini | WEB [NextJS + Axum]</h1>
+<h1 align="center">WattDownload | WEB [NextJS + Axum]</h1>
 
 <p align="center">
   Extra-Minimal "NextJS + [Shuttle] Axum" Web app to Download Stories from WP in EPUB (version 3) format. <br/>
